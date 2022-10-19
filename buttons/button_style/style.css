@@ -1,0 +1,263 @@
+th {
+  text-align: center;
+  width: 550px;
+  border: none;
+  left: 77px;
+  position: relative;
+}
+
+table {
+  width: 385px;
+  height: 178px;
+}
+
+.btn-1 {
+  font-size: 0.875rem;
+  height: 2rem;
+  padding: 0 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  top: 26px;
+  left: 43px;
+}
+
+.btn-2 {
+  font-size: 0.875rem;
+  height: 2rem;
+  padding: 0 1rem;
+  border-radius: 20px;
+  border: none;
+  position: relative;
+  background-color: #0071dc;
+  color: white;
+  top: 115px;
+  left: 59px;
+}
+
+.btn-3 {
+  background-color: white;
+  height: 42px;
+  left: 35px;
+  position: relative;
+  border: 1px solid black;
+  padding: 0 2rem;
+  border-radius: 30px;
+}
+
+.btn-4 {
+  color: white;
+  background-color: rgb(14, 13, 13);
+  border-radius: 5px;
+  padding: 0 4rem;
+  height: 42px;
+  border: none;
+  left: 10px;
+  position: relative;
+}
+
+.btn-5 {
+  color: white;
+  background-color: rgb(46, 45, 45);
+  border-radius: 5px;
+  padding: 0 3.4rem;
+  height: 42px;
+  border: none;
+  left: 10px;
+  position: relative;
+  top: 13px;
+}
+
+.btn-6 {
+  color: rgb(46, 45, 45);
+  background-color: rgb(187, 184, 184);
+  border-radius: 5px;
+  padding: 0 2.7rem;
+  height: 42px;
+  border: none;
+  left: 10px;
+  position: relative;
+  top: 34px;
+}
+
+.btn-7 {
+  border-radius: 30px;
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  font-size: 20px;
+  position: relative;
+  left: 58px;
+}
+
+.btn-8 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(231, 8, 8);
+  border-radius: 2px;
+  padding: 0 2.7rem;
+  height: 42px;
+  border: none;
+  left: 10px;
+  position: relative;
+  top: -13px;
+  font-size: 15px;
+}
+
+.btn-9 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(231, 8, 8);
+  border-radius: 5px;
+  padding: 0 4rem;
+  height: 42px;
+  border: none;
+  left: 10px;
+  position: relative;
+  top: -1px;
+  font-size: 15px;
+}
+
+.btn-10 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 196, 0);
+  border-radius: 5px;
+  padding: 0 1rem;
+  height: 42px;
+  border: none;
+  left: 5px;
+  position: relative;
+  top: -14px;
+  font-size: 15px;
+  width: max-content;
+}
+
+.btn-11 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 196, 0);
+  border-radius: 5px;
+  padding: 0 1rem;
+  height: 42px;
+  border: none;
+  left: 50px;
+  position: relative;
+  top: 5px;
+  font-size: 15px;
+  width: max-content;
+}
+
+.btn-12 {
+  font-size: 0.875rem;
+  height: 2.5rem;
+  padding: 0 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  top: 6px;
+  left: 56px;
+  background-color: #0167c5;
+  color: white;
+}
+
+.btn-13 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(121, 44, 151);
+  border-radius: 5px;
+  padding: 0 9rem;
+  height: 31px;
+  border: none;
+  left: -1px;
+  position: relative;
+  top: -14px;
+  font-size: 15px;
+  width: max-content;
+}
+
+.btn-14 {
+  font-size: 0.875rem;
+  height: 2.5rem;
+  padding: 0 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  top: 6px;
+  left: 79px;
+  background-color: #0167c5;
+  color: white;
+}
+
+.btn-15 {
+  font-size: 0.875rem;
+  height: 2.5rem;
+  padding: 0 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  top: 56px;
+  left: -83px;
+  background-color: #080077;
+  color: white;
+}
+
+.btn-16 {
+  font-size: 0.875rem;
+  height: 2.5rem;
+  padding: 0 2rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  position: relative;
+  top: -30px;
+  left: 63px;
+  background-color: #242424;
+  color: white;
+}
+
+.btn-17 {
+  color: rgb(255, 251, 251);
+  background-color: rgb(19, 53, 126);
+  border-radius: 5px;
+  padding: 0 3rem;
+  height: 32px;
+  border: none;
+  left: 19px;
+  position: relative;
+  top: -7px;
+  font-size: 15px;
+  width: max-content;
+}
+
+.btn-18 {
+  color: rgb(255, 251, 251);
+  background-color: rgb(19, 53, 126);
+  border-radius: 5px;
+  padding: 0 3rem;
+  height: 32px;
+  border: none;
+  left: 35px;
+  position: relative;
+  top: 8px;
+  font-size: 15px;
+  width: max-content;
+}
+
+.table-tesla {
+  width: 385px;
+  height: 275px;
+}
+
+.table-warnerb {
+  width: 385px;
+  height: 270px;
+}
+
+.options-td {
+  width: 150px;
+}
+
+.see-times {
+  width: 450px;
+}
+
+/* .walmart-linkk {
+  left: -222px;
+  position: relative;
+  top: 105px;
+} */
