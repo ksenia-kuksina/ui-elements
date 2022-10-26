@@ -11,7 +11,8 @@ table {
   height: 178px;
 }
 
-.btn-1 {
+/* Walmart */
+.walmart-btn-1 {
   font-size: 0.875rem;
   height: 2rem;
   padding: 0 1rem;
@@ -24,7 +25,7 @@ table {
   font-weight: 700;
 }
 
-.btn-2 {
+.walmart-btn-2 {
   font-size: 0.875rem;
   height: 2rem;
   padding: 0 1rem;
@@ -39,7 +40,8 @@ table {
   font-weight: 700;
 }
 
-.btn-3 {
+/* Apple */
+.apple-btn-1 {
   background-color: white;
   height: 42px;
   left: 35px;
@@ -53,12 +55,19 @@ table {
   font-weight: 700;
 }
 
-.btn-3:hover {
+.apple-btn-1:hover {
   background-color: rgb(236, 236, 236);
   color: rgb(0, 0, 0);
 }
 
-.btn-4 {
+/* Tesla */
+
+.table-tesla {
+  width: 385px;
+  height: 275px;
+}
+
+.tesla-btn-1 {
   color: white;
   background-color: rgb(14, 13, 13);
   border-radius: 5px;
@@ -71,7 +80,7 @@ table {
   font-weight: 700;
 }
 
-.btn-5 {
+.tesla-btn-2 {
   color: white;
   background-color: rgb(46, 45, 45);
   border-radius: 5px;
@@ -85,7 +94,7 @@ table {
   font-weight: 700;
 }
 
-.btn-6 {
+.tesla-btn-3 {
   color: rgb(46, 45, 45);
   background-color: rgb(187, 184, 184);
   border-radius: 5px;
@@ -99,7 +108,8 @@ table {
   font-weight: 700;
 }
 
-.btn-7 {
+/* Meta Platforms */
+.meta-btn-1 {
   border-radius: 30px;
   border: 1px solid black;
   height: 40px;
@@ -111,7 +121,8 @@ table {
   font-weight: 700;
 }
 
-.btn-8 {
+/* Netflix */
+.netflix-btn-1 {
   color: rgb(255, 255, 255);
   background-color: rgb(231, 8, 8);
   border-radius: 2px;
@@ -126,7 +137,7 @@ table {
   font-weight: 700;
 }
 
-.btn-9 {
+.netflix-btn-2 {
   color: rgb(255, 255, 255);
   background-color: rgb(231, 8, 8);
   border-radius: 5px;
@@ -141,11 +152,12 @@ table {
   font-weight: 700;
 }
 
-.btn-10 {
+/* McDonald's */
+.macdonalds-btn-1 {
   color: rgb(0, 0, 0);
   background-color: rgb(255, 196, 0);
   border-radius: 5px;
-  padding: 0 1rem;
+  padding: 0 0.6rem;
   height: 42px;
   border: none;
   left: 5px;
@@ -157,7 +169,7 @@ table {
   font-weight: 700;
 }
 
-.btn-11 {
+.macdonalds-btn-2 {
   color: rgb(0, 0, 0);
   background-color: rgb(255, 196, 0);
   border-radius: 5px;
@@ -173,7 +185,8 @@ table {
   font-weight: 700;
 }
 
-.btn-12 {
+/* Adobe */
+.adobe-btn-1 {
   font-size: 0.875rem;
   height: 2.5rem;
   padding: 0 1rem;
@@ -190,12 +203,19 @@ table {
   font-weight: 700;
 }
 
-.btn-12:hover {
+.adobe-btn-1:hover {
   background-color: #015eb6;
   color: rgb(255, 255, 255);
 }
 
-.btn-13 {
+/* Warner Bros. Discovery  */
+
+.table-warnerb {
+  width: 385px;
+  height: 270px;
+}
+
+.warner-bros-btn-1 {
   color: rgb(255, 255, 255);
   background-color: rgb(121, 44, 151);
   border-radius: 5px;
@@ -211,7 +231,7 @@ table {
   font-weight: 700;
 }
 
-.btn-14 {
+.warner-bros-btn-2 {
   font-size: 0.875rem;
   height: 2.5rem;
   padding: 0 1rem;
@@ -226,7 +246,7 @@ table {
   font-weight: 700;
 }
 
-.btn-15 {
+.warner-bros-btn-3 {
   font-size: 0.875rem;
   height: 2.5rem;
   padding: 0 1rem;
@@ -241,14 +261,15 @@ table {
   font-weight: 700;
 }
 
-.btn-16 {
+/* Hasbro */
+.hasbro-btn-1 {
   font-size: 0.875rem;
   height: 2.5rem;
   padding: 0 2rem;
   border-radius: 20px;
   border: 1px solid black;
   position: relative;
-  top: -30px;
+  top: -10px;
   left: 63px;
   background-color: #242424;
   color: white;
@@ -256,7 +277,7 @@ table {
   font-weight: 700;
 }
 
-.btn-17 {
+.hasbro-btn-2 {
   color: rgb(255, 251, 251);
   background-color: rgb(19, 53, 126);
   border-radius: 5px;
@@ -265,14 +286,14 @@ table {
   border: none;
   left: 19px;
   position: relative;
-  top: -7px;
+  top: -1px;
   font-size: 15px;
   width: max-content;
   cursor: pointer;
   font-weight: 700;
 }
 
-.btn-18 {
+.hasbro-btn-3 {
   color: rgb(255, 251, 251);
   background-color: rgb(19, 53, 126);
   border-radius: 5px;
@@ -288,16 +309,6 @@ table {
   font-weight: 700;
 }
 
-.table-tesla {
-  width: 385px;
-  height: 275px;
-}
-
-.table-warnerb {
-  width: 385px;
-  height: 270px;
-}
-
 .options-td {
   width: 150px;
 }
@@ -305,4 +316,3 @@ table {
 .see-times {
   width: 450px;
 }
-
